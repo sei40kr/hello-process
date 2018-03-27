@@ -1,6 +1,6 @@
 # hello-process
 
-Where I learn process management
+Where I learn how to communicate between different processes.
 
 ## References
 
